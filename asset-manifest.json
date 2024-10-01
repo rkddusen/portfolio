@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolio/static/js/main.b4e58bd8.js",
+    "static/media/main.jpg": "/portfolio/static/media/main.3e279d3a710c5952ecd0.jpg",
+    "static/media/yorizori1.png": "/portfolio/static/media/yorizori1.dad3c3a2d5a969d10325.png",
+    "static/media/color_me4.png": "/portfolio/static/media/color_me4.f6973f0264c955a44533.png",
+    "static/media/yorizori2.png": "/portfolio/static/media/yorizori2.ed4b394af90c125bdc17.png",
+    "static/media/duyeons_portfolio1.png": "/portfolio/static/media/duyeons_portfolio1.a43d5cfe0ff54c136a9b.png",
+    "static/media/duyeons_portfolio2.png": "/portfolio/static/media/duyeons_portfolio2.ebe6ec3440e11b79a547.png",
+    "static/media/kuphil_web4.png": "/portfolio/static/media/kuphil_web4.d18fad3bb242435db4df.png",
+    "static/media/soool_with_wine6.png": "/portfolio/static/media/soool_with_wine6.258b162265bcc6d87618.png",
+    "static/media/yorizori3.png": "/portfolio/static/media/yorizori3.1a38983d4c7009f2e4fa.png",
+    "static/media/kuphil_web6.png": "/portfolio/static/media/kuphil_web6.5e1b197a13532be6dec3.png",
+    "static/media/kuphil_web2.png": "/portfolio/static/media/kuphil_web2.9974934f0f0c94b55ab5.png",
+    "static/media/soool_with_wine1.png": "/portfolio/static/media/soool_with_wine1.53913d409134d0b52b5e.png",
+    "static/media/kuphil_web1.png": "/portfolio/static/media/kuphil_web1.f079c4ea5550aa10164e.png",
+    "static/media/signup.png": "/portfolio/static/media/signup.d0fd86b67458d61cfea5.png",
+    "static/media/color_me1.png": "/portfolio/static/media/color_me1.996b7360c2cf5e7cd05a.png",
+    "static/media/kuphil_web5.png": "/portfolio/static/media/kuphil_web5.b51c15ba9e939c9976df.png",
+    "static/media/soool_with_wine4.png": "/portfolio/static/media/soool_with_wine4.2858d34f854596f3dbcd.png",
+    "static/media/soool_with_wine5.png": "/portfolio/static/media/soool_with_wine5.ce5b3519171c8d787602.png",
+    "static/media/kuphil_web3.png": "/portfolio/static/media/kuphil_web3.79c5b61c73f9a1532e4c.png",
+    "static/media/duyeons_portfolio3.png": "/portfolio/static/media/duyeons_portfolio3.d7c87749bc570e255312.png",
+    "static/media/soool_with_wine3.png": "/portfolio/static/media/soool_with_wine3.00de53834b75aeb91520.png",
+    "static/media/solution1.png": "/portfolio/static/media/solution1.a313579e092917d1c58d.png",
+    "static/media/yorizori4.png": "/portfolio/static/media/yorizori4.29459d8e8418f2bd19e3.png",
+    "static/media/solution2.png": "/portfolio/static/media/solution2.0c2cdf133f529e64cdc6.png",
+    "static/media/color_me3.png": "/portfolio/static/media/color_me3.07897d053bac3afcda8f.png",
+    "static/media/naver_logo.png": "/portfolio/static/media/naver_logo.c0a9582d2f06166f7253.png",
+    "static/media/problem.png": "/portfolio/static/media/problem.93e06cdc609c86284edc.png",
+    "static/media/kakaotalk_logo.png": "/portfolio/static/media/kakaotalk_logo.e9f5b5552fe249adb129.png",
+    "static/media/soool_with_wine2.png": "/portfolio/static/media/soool_with_wine2.2299659b3389281198f3.png",
+    "static/media/tistory_logo.png": "/portfolio/static/media/tistory_logo.a0d145c13f8772743200.png",
+    "index.html": "/portfolio/index.html",
+    "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
+    "main.b4e58bd8.js.map": "/portfolio/static/js/main.b4e58bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b4e58bd8.js"
+  ]
+}
