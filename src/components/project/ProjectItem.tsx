@@ -112,10 +112,10 @@ const OpenProjectDetailBtn = styled.div`
 `
 const OpenProjectDetailText = styled.p`
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
 
   @media (min-width: 768px) {
-    font-size: 16px;
+    font-size: 20px;
   }
 `
 const Detail = styled.div`
