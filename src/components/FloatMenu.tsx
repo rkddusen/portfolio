@@ -162,7 +162,7 @@ const FloatMenu = ({ isDarkMode, setIsDarkMode }: FloatMenuProps) => {
       <Menus isMenuOpen={isMenuOpen}>
         <div>
           <LinkMenuList
-            href="https://buttercup-antlion-a0c.notion.site/104bc9ac80348045a56dd628cfbe2233"
+            href="https://somedding.notion.site/"
             target="_blank"
             rel="noreferrer"
           >
