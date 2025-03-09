@@ -1,14 +1,10 @@
 import styled from '@emotion/styled'
 import kuphil_web_thumbnail from '../assets/thumbnail/kuphilWeb/images'
 import color_me_thumbnail from '../assets/thumbnail/colorMe/images'
-import yorizori_thumbnail from '../assets/thumbnail/yorizori/images'
-import duyeons_portfolio_thumbnail from '../assets/thumbnail/duyeonsPortfolio/images'
-import soool_with_wine_thumbnail from '../assets/thumbnail/sooolWithWine/images'
 import ProjectItem from './project/ProjectItem'
 import IntersectionObserver from './IntersectionObserver'
 import KuphilWeb from './troubleshooting/KuphilWeb'
 import ColorMe from './troubleshooting/ColorMe'
-import SooolWithWine from './troubleshooting/SooolWithWine'
 
 const ProjectContainer = styled.div`
   width: 80%;
@@ -54,27 +50,6 @@ const ProjectSection = () => {
             index={1}
             thumbnail={color_me_thumbnail}
             Troubleshooting={ColorMe}
-          />
-        </IntersectionObserver>
-        <IntersectionObserver>
-          <ProjectItem
-            index={2}
-            thumbnail={yorizori_thumbnail}
-            Troubleshooting={null}
-          />
-        </IntersectionObserver>
-        <IntersectionObserver>
-          <ProjectItem
-            index={3}
-            thumbnail={duyeons_portfolio_thumbnail}
-            Troubleshooting={null}
-          />
-        </IntersectionObserver>
-        <IntersectionObserver>
-          <ProjectItem
-            index={4}
-            thumbnail={soool_with_wine_thumbnail}
-            Troubleshooting={SooolWithWine}
           />
         </IntersectionObserver>
       </div>

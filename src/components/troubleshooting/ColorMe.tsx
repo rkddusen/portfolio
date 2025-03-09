@@ -89,7 +89,7 @@ const ColorMe = () => {
             들었지만, 최대 100KB의 제한이 있다는 점에서 chrome.storage.local이
             낫다고 판단했습니다. 다만, 프로그램을 리팩토링하는 과정에서 기기 간
             동기화가 필요하다고 느껴진다면 chrome.storage.sync 도입도 다시
-            고려해볼 예정입니다.
+            고려해 볼 예정입니다.
           </Text>
         </div>
       </div>
