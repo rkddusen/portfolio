@@ -85,7 +85,9 @@ const Main = () => {
       <MainBackground />
       <MainContent>
         <div>
-          <MainTitle>Artistic{'\n'}Developer</MainTitle>
+          <MainTitle>
+            Moving{'\n'}towards{'\n'}Users
+          </MainTitle>
           <MainExplain>
             <p>
               안녕하세요.{'\n'}프론트엔드 개발자 <span>강두연</span>입니다.
